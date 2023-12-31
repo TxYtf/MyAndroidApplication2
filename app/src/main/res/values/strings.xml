@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="question_text">Do you want to continue?</string>
+    <string name="ok_button">Ok</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ok_toast">I am very glad You decided to continue!</string>
+    <string name="cancel_toast">It\'s pity((( I hope You will turn back soon</string>
+
+</resources>
